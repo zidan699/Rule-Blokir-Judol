@@ -1,0 +1,69 @@
+# Title: Zoldycx/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 08 November 2026 03:20:51 (UTC)
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+#=====================================
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start Zoldycx
+
+#=====================================
+
+0.0.0.0 mc-dwa.space/?R=63326D24
+0.0.0.0 akses10.loginhk.space
+0.0.0.0 server9.suroso88.me
+0.0.0.0 lk21layarkaca.live
+0.0.0.0 cek.to
+0.0.0.0 auctionr.org
+0.0.0.0 www.stage32.com
+0.0.0.0 link6.suroso88.click
+0.0.0.0 link2.hkd-vip.site
+0.0.0.0 marisha.net
+0.0.0.0 2jyt.gennexttechdev.buzz
+0.0.0.0 indoxxi.red
+0.0.0.0 film21.lk21.in.net 
+0.0.0.0 20.pentaslot.llc
+0.0.0.0 2.bestkaiko.site
+0.0.0.0 goratu.site
+0.0.0.0 goid.space
+0.0.0.0 8.arabb.site
+0.0.0.0 bergurukecina.fun
+0.0.0.0 18.gaza16.cfd
+0.0.0.0 injd.site
+0.0.0.0 lk21streaming.video
+0.0.0.0 172.96.190.248
+0.0.0.0 204.3.234.81
+0.0.0.0 178.62.40.35
+0.0.0.0 indoxxidlix.live
+0.0.0.0 198.252.109.72
+0.0.0.0 klikxxi.vip
+0.0.0.0 f586n.desamahjong.cash
+0.0.0.0 1rin3.desamahjong.cash
+0.0.0.0 rebahinfilm.myr.id
+0.0.0.0 kitanonton2.garden
+0.0.0.0 rebahin.com
+0.0.0.0 sarangfilm.homes
+0.0.0.0 rebahin21.com.mx
